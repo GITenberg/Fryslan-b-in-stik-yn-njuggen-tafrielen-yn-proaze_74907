@@ -1,0 +1,27 @@
+_repo: Fryslan-b-in-stik-yn-njuggen-tafrielen-yn-proaze_74907
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kalma, Douwe
+    birthdate: 1896
+    deathdate: 1953
+    gutenberg_agent_id: '43803'
+    url: http://www.gutenberg.org/2009/agents/43803
+    wikipedia: https://fy.wikipedia.org/wiki/Douwe_Kalma
+description: ''
+gutenberg_issued: '2024-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74907'
+language: fy
+pgterms:marc905: 20241124041927kalma
+pgterms:marc906: '1926'
+pgterms:marc907: nl
+publication_note: '  $aSneek :$bBrandenburgh & Co., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fryslân : $b in stik yn njuggen tafrielen yn proaze'
+url: http://www.gutenberg.org/ebooks/74907
